@@ -1,4 +1,4 @@
 def oxford_comma(array)
-  "kiwi".split(",")
+  puts "kiwi".split(",")
 
 end
